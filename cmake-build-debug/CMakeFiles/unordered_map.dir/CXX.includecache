@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mikhail/CLionProjects/unordered_map/main.cpp
+iostream
+-
+vector
+-
+memory
+-
+type_traits
+-
+iterator
+-
+new
+-
+vector
+-
+string
+-
+unordered_map
+-
+iterator
+-
+cassert
+-
+
