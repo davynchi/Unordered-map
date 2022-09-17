@@ -1,2 +1,3 @@
-Условие на unordered_map + list написано в задачах 2.2 и 2.3 по этой ссылке https://docs.google.com/document/d/1mM03z1dzv4ODuj7kY6_cncpTUOOXg7cAfrL1SKHZfZo/edit
-(часть 1 с fast_allocator в проекте unordered_map опускается).
+Требуется написать аналог unordered_map и list. <br />
+Раньше условие на unordered_map + list было написано в задачах 2.2 и 2.3 по этой ссылке https://docs.google.com/document/d/1mM03z1dzv4ODuj7kY6_cncpTUOOXg7cAfrL1SKHZfZo/edit, но после 26 августа из-за санкций США в отношении МФТИ, все гугловские аккаунты МФТИ были удалены, соответственно, был удален и этот файл. <br />
+Файл main.cpp не мой, а лектора (файл нужен для проверки, что все работает нормально, мои файлы - list.h и unordered_map.h).
